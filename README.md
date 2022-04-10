@@ -6,4 +6,4 @@ Topic Modeling is an unsupervised Machine Learning Technique and the goal is to 
 Libraries used are Pandas, Sklearn.feature_extraction, Matplotlib, Numpy, Re and Nltk.
 
 
-For this project, Consumer_complaints_dataset has been used from Consumer Financial Protection Board (CFPB).
+For this project, Consumer_complaints_dataset has been used from Consumer Financial Protection Board (CFPB) for the past 3 years.
